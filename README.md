@@ -6,9 +6,9 @@
 
 🌐 Exciting Projects: Proud to have created four websites from scratch:
 
-Two for Gnogen ([gng.gnogen.io](Great-war) and [gnogons.gnogen.io](Gnogons)), leveraging MultiversX.
-The stylish [rizencity.io](RizenCity) website.
-And my biggest project, [reboom.co](Reboom).
+Two for Gnogen ([Great-war](https://gng.gnogen.io) and [Gnogons](https://gnogons.gnogen.io)), leveraging MultiversX.
+The stylish [RizenCity](https://rizencity.io) website.
+And my biggest project, [Reboom](https://reboom.co).
 
 💡 Tech Stack: Thanks to NextJS, Vercel, trpc.io, and Shadcn UI, I've achieved a quality I always aspired to. A big shoutout to all OSS contributors who made this possible!
 
