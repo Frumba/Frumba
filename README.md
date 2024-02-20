@@ -2,7 +2,7 @@
 
 ⌛ Before embarking on my entrepreneurial journey, I honed my skills as a full-stack web developer at renowned companies including Melba, Ouicar, and Photobox.
 
-🔥 Entrepreneurial Journey: Left my 9-5 job a year ago and haven't looked back. It's been a journey of growth, learning, and lots of coding! [Dunniabs](https://dunniabs.com)
+🔥 Entrepreneurial Journey with [Dunniabs](https://dunniabs.com): Left my 9-5 job a year ago and haven't looked back. It's been a journey of growth, learning, and lots of coding!
 
 🌐 Exciting Projects: Proud to have created four websites from scratch:
 
